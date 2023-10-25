@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="webapp/WEB-INF"/>
+	<classpathentry kind="src" path="webapp/css"/>
+	<classpathentry kind="src" path="webapp/js"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="src" path="build"/>
+	<classpathentry kind="src" path="web/WEB-INF/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Archivos de Programas">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="N:/ECLIPSE WORKSPACE/SVIN/lib/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
